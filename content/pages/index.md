@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Instantly Earn BKRE
+    title: Instantly Earn BKRE when you move.
     subtitle: Stop switching between calendars and task lists!
     content: >-
       App Land combines your work and home calendars with all your task
